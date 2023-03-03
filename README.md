@@ -7,5 +7,6 @@ I'm a senior high school students from China.I'm a noob developer using the C la
 💬 Communicate language : Cantonese,Mandarin,English                                                                                                         
 🖥️ Programming language : C                                                                                                        
  
- I'm a amateur developer,development program just my hobby,please bear me😊.
-<br>My new projects are all in Codeberg : https://codeberg.org/fcanlnony
+I'm a amateur developer,development program just my hobby,please bear me😊.
+
+My new projects are all in Codeberg : https://codeberg.org/fcanlnony
