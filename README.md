@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-I'm a senior high school students from China.I'm a noob developer using the C language,and i am currently working on C.English isn't my first language,if i had any wrong in grammar,please pointing😊.                                                                                                                         
+I'm a students from China.I'm a noob developer using the C language,and i am currently working on C.English isn't my first language,if i had any wrong in grammar,please pointing😊.                                                                                                                         
                                                                                                                                                            
 🗺️ City of residence : Zhanjiang,Guangdong,People's Republic of China                                                                                       
 📧 My email : fcanlnony@outlook.com                                                                                                                         
