@@ -8,3 +8,5 @@ I'm a freshman from China.I'm a noob developer using the C language,and i am cur
 🖥️ Programming language : C                                                                                                        
  
 I'm a amateur developer,development program just my hobby,please bear me😊.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcanlnony&layout=compact)
