@@ -9,6 +9,6 @@
 💬 Communicate language : Cantonese, Mandarin, English                                                                                                         
 🖥️ Programming language : C                                                                                                        
  
-I'm a amateur developer, development program just my hobby, please bear me😊.
+I'm a amateur developer, development program just my hobby.😊
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcanlnony&layout=compact)
