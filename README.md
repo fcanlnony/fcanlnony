@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-* I'm a student from China majoring in Electronic and Information Engineering. I'm a noob developer using the C language, and i am currently working on Verilog. English isn't my first language, please tolerate my faulty grammar.🥲
+* I'm a student from China majoring in Electronic and Information Engineering. I'm a noob developer using the C language, and i am currently working on Verilog. I am also developing multi-rotor drones. English isn't my first language, please tolerate my faulty grammar.🥲
 * My username fcanlnony is just a combination of my nickname translated into English and F-CAN-L-NON-Y by fly, cannon. Shus is a portmanteau of another nickname I had in high school.
 * OS & Test Platform: openSUSE Tumbleweed 
                                                                                                                                                          
@@ -10,5 +10,3 @@
 🖥️ Programming language : C                                                                                                        
  
 I'm a amateur developer, development program just my hobby.😊
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcanlnony&layout=compact)
