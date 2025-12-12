@@ -7,4 +7,4 @@
 🗺️ Hometown : Zhanjiang, Guangdong, China                                                                                       
 📧 Email : fcanlnony@outlook.com                                                                                                                         
 💬 Languages : Cantonese, Mandarin, English                                                                                                         
-🖥️ Programming languages : C, Python, Emacs Lisp, Assembly, Verilog                                                                                                       
+🖥️ Programming Languages : C, Python, Emacs Lisp, Assembly, Verilog                                                                                                       
