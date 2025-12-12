@@ -4,7 +4,7 @@
 * My username, fcanlnony, is a combination of my nickname, translated into English, and "fly cannon." Shus is a portmanteau of another nickname I had in high school.
 * OS & Test Platform: openSUSE Tumbleweed 
                                                                                                                                                          
-🗺️ Hometown : Zhanjiang, Guangdong, China                                                                                       
-📧 Email : fcanlnony@outlook.com                                                                                                                         
-💬 Languages : Cantonese, Mandarin, English                                                                                                         
-🖥️ Programming Languages : C, Python, Emacs Lisp, Assembly, Verilog                                                                                                       
+🗺️ Hometown: Zhanjiang, Guangdong, China                                                                                       
+📧 Email: fcanlnony@outlook.com                                                                                                                         
+💬 Languages: Cantonese, Mandarin, English                                                                                                         
+🖥️ Programming Languages: C, Python, Emacs Lisp, Assembly, Verilog                                                                                                       
