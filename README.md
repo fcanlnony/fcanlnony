@@ -8,3 +8,5 @@
 📧 Email: fcanlnony@outlook.com                                                                                                                         
 💬 Languages: Cantonese, Mandarin, English                                                                                                         
 🖥️ Programming Languages: C, Python, Emacs Lisp, Assembly, Verilog                                                                                                       
+
+Sponsor via USDT-TRC20: TCKDNozen58NcJoFnC5jmkaSxzJQE13E4x
