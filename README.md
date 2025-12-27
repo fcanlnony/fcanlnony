@@ -1,8 +1,9 @@
-### Hi there 👋
- 
-* My name is Shus Mo, and I'm an Electronic and Information Engineering student from China. I'm an inexperienced developer who uses the C language, and I am currently working on Verilog. I also develop PX4 multi-rotor drones. English isn't my first language, so please excuse my grammatical errors.🥲
-* My username, fcanlnony, is a combination of my nickname, translated into English, and "fly cannon." Shus is a portmanteau of another nickname I had in high school.
-* OS & Test Platform: openSUSE Tumbleweed 
+### Hi there 👋 I'm Shus Mo
+
+🎓 EIE Student
+🛠️ Embedded & System Dev: Currently diving deep into OS Kernel, Verilog, and PX4 Autopilot</br>
+🐧 Environment: Power user of openSUSE Tumbleweed.</br>
+🤖 Flight Control: Focusing on multi-rotor drone development with PX4.</br>
                                                                                                                                                          
 🗺️ Hometown: Zhanjiang, Guangdong, China                                                                                       
 📧 Email: fcanlnony@outlook.com                                                                                                                         
