@@ -14,3 +14,4 @@
 
 >💡 fcanlnony = `fly` + `cannon` </br>
 >💵 Sponsor via USDT-TRC20: TCKDNozen58NcJoFnC5jmkaSxzJQE13E4x
+>💵 Sponsor via USDT-BEP20: 0xab97f61f264a0c17abba9fa50793758dd0103c96
