@@ -13,5 +13,5 @@
 🖥️ **Stack**: `C`, `Python`, `Emacs Lisp`, `Assembly`, `Verilog`                                                                                                       
 
 >💡 fcanlnony = `fly` + `cannon` </br>
->💵 Sponsor via USDT-TRC20: TCKDNozen58NcJoFnC5jmkaSxzJQE13E4x
+>💵 Sponsor via USDT-TRC20: TCKDNozen58NcJoFnC5jmkaSxzJQE13E4x </br>
 >💵 Sponsor via USDT-BEP20: 0xab97f61f264a0c17abba9fa50793758dd0103c96
