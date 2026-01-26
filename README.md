@@ -3,7 +3,7 @@
 🧠 **Code Philosophy**: </br>
 Prioritizing structural clarity and human-readability—writing code that is concise by design and maintainable by necessity.</br>
 🤖 **Problem Solving**: </br>
-Synergizing Claude Code and Codex to orchestrate high-fidelity root cause analysis and deep-system comprehension.
+Synergizing Codex and Claude Code to orchestrate high-fidelity root cause analysis and deep-system comprehension.
 
 #### Professional Skills
 🎓 **B.Eng. Student @ EIE**: Focus on Embedded Systems & UAV </br>
