@@ -7,7 +7,7 @@ Synergizing Codex and Claude Code to orchestrate high-fidelity root cause analys
 
 #### Professional Skills
 🎓 **B.Eng. Student @ EIE**: Focus on Embedded Systems & UAV </br>
-🛠️ **Embedded & System Dev**: Currently diving deep into OS Kernel, FPGA, and PX4 Autopilot. </br>
+🛠️ **Embedded & System Dev**: Currently diving deep into OS Kernel and PX4 Autopilot. </br>
 🐧 **Environment**: Power user of openSUSE Tumbleweed. </br>
 🚁 **UAV**: Focusing on multi-rotor drone development with PX4. </br>
 🛠️ **Toolchain**: arm-none-eabi-gcc, cmake, ninja, openocd/pyocd, gcc </br>                                                                                                                         
