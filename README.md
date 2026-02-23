@@ -19,5 +19,8 @@ Synergizing Codex and Claude Code to orchestrate high-fidelity root cause analys
 🖥️ **Stack**: `C`, `Python`, `Emacs Lisp`, `Assembly`, `Verilog`                                                                                                       
 
 >💡 fcanlnony = `fly` + `cannon` </br>
->💵 Sponsor via USDT-TRC20: TCKDNozen58NcJoFnC5jmkaSxzJQE13E4x </br>
->💵 Sponsor via USDT-BEP20: 0xab97f61f264a0c17abba9fa50793758dd0103c96
+<details>
+    <summary>Buy Me a Coffee</summary>
+    <br>💵 Sponsor via USDT-TRC20: <strong> TCKDNozen58NcJoFnC5jmkaSxzJQE13E4x </strong> 
+    <br>💵 Sponsor via USDT-BEP20: <strong> 0xab97f61f264a0c17abba9fa50793758dd0103c96 </strong>
+</details>
