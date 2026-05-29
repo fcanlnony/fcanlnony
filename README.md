@@ -13,7 +13,7 @@ Prioritizing structural clarity and human-readability—writing code that is con
 Using Codex and Claude Code as engineering assistants for root-cause analysis, codebase navigation, and system-level debugging. </br>
 
 #### Technical Stack
-[![My Skills](https://skillicons.dev/icons?i=c,python,bash,emacs,verilog,markdown,cmake,docker,linux,ros,raspberrypi,opencv&theme=dark&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,bash,emacs,verilog,markdown,cmake,docker,linux,ros,raspberrypi,opencv&perline=8)](https://skillicons.dev)
 
 ![GCC](https://img.shields.io/badge/GCC-333333?style=for-the-badge&logo=gnu&logoColor=white)
 ![arm-none-eabi-gcc](https://img.shields.io/badge/arm--none--eabi--gcc-525252?style=for-the-badge&logo=arm&logoColor=white)
