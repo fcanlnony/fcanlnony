@@ -13,14 +13,13 @@ Prioritizing structural clarity and human-readability—writing code that is con
 Using Codex and Claude Code as engineering assistants for root-cause analysis, codebase navigation, and system-level debugging. </br>
 
 #### Technical Stack
-[![My Skills](https://skillicons.dev/icons?i=c,python,bash,emacs,linux,cmake,docker,raspberrypi,ros&theme=dark&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,bash,emacs,verilog,markdown,cmake,docker,linux,ros,raspberrypi,opencv&theme=dark&perline=8)](https://skillicons.dev)
 
 ![GCC](https://img.shields.io/badge/GCC-333333?style=for-the-badge&logo=gnu&logoColor=white)
 ![arm-none-eabi-gcc](https://img.shields.io/badge/arm--none--eabi--gcc-525252?style=for-the-badge&logo=arm&logoColor=white)
 ![GNU Make](https://img.shields.io/badge/GNU%20Make-427819?style=for-the-badge&logo=gnu&logoColor=white)
 ![Ninja](https://img.shields.io/badge/Ninja-333333?style=for-the-badge&logo=ninja&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-8B0000?style=for-the-badge&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00599C?style=for-the-badge&logoColor=white)             
 ![PX4 Autopilot](https://img.shields.io/badge/PX4%20Autopilot-005CAF?style=for-the-badge&logoColor=white)
 
