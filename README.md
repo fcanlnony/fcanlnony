@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Shus Mo
 
 #### Professional Skills
-🎓 **B.Eng. Student @ EIE**: Focused on Embedded Systems & UAV </br>
+🎓 **B.Eng. Student @ EIE**: Focused on Embedded Systems & Operation Systems </br>
 🛠️ **Embedded & System Dev**: Currently diving deep into OS Kernel and ROS Application Development. </br>
 🐧 **Environment**: Power user of openSUSE Tumbleweed. </br>
 🚁 **UAV**: Focusing on multi-rotor drone development with PX4 Autopilot. </br>
