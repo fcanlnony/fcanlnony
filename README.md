@@ -56,8 +56,3 @@ Using Codex and Claude Code as engineering assistants for root-cause analysis, c
 [Foxmail | Urgent Contact](mailto:fcanlnony@foxmail.com) | Chinese only
 
 >💡 fcanlnony = `fly` + `cannon` </br>
-<details>
-    <summary>Buy Me a Coffee</summary>
-    <br>💵 Sponsor via USDT-TRC20: <strong> TCKDNozen58NcJoFnC5jmkaSxzJQE13E4x </strong> 
-    <br>💵 Sponsor via USDT-BEP20: <strong> 0xab97f61f264a0c17abba9fa50793758dd0103c96 </strong>
-</details>
